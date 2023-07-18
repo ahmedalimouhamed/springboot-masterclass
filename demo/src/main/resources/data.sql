@@ -1,0 +1,10 @@
+insert into customer(id, name, password, email) values(1, 'ahmed', 'pass123', 'ahmed@gmail.com');
+insert into customer(id, name, password, email) values(2, 'ali', 'pass123', 'ali@gmail.com');
+insert into customer(id, name, password, email) values(3, 'fatima', 'pass123', 'fatima@gmail.com');
+insert into customer(id, name, password, email) values(4, 'mouhamed', 'pass123', 'mouhamed@gmail.com');
+insert into customer(id, name, password, email) values(5, 'salma', 'pass123', 'salma@gmail.com');
+insert into customer(id, name, password, email) values(6, 'marwa', 'pass123', 'marwa@gmail.com');
+insert into customer(id, name, password, email) values(7, 'ismail', 'pass123', 'ismail@gmail.com');
+insert into customer(id, name, password, email) values(8, 'lokman', 'pass123', 'lokman@gmail.com');
+insert into customer(id, name, password, email) values(9, 'samira', 'pass123', 'samira@gmail.com');
+insert into customer(id, name, password, email) values(10, 'raghda', 'pass123', 'raghda@gmail.com');
